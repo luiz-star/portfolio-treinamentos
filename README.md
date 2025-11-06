@@ -1,5 +1,8 @@
 # Portfólio de Treinamentos — Excel e Power BI
 
+
+<img width="1113" height="620" alt="report" src="https://github.com/user-attachments/assets/e5dfc141-2fbc-4907-8fbd-3e75f618f663" />
+
 ## Resumo
 
 * Programa: Técnicas de Microsoft Excel e Técnicas de Power BI
